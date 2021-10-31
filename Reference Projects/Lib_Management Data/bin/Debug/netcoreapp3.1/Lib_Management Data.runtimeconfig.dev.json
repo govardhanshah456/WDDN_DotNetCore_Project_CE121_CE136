@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\govar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\govar\\.nuget\\packages"
+    ]
+  }
+}
