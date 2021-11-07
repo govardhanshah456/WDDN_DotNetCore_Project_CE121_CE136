@@ -13,9 +13,9 @@ namespace Lib_Management.Controllers
     {
         private ILibraryAsset _assetsService;
         private IChekout _checkoutsService;
-        public CatalogController(ILibraryAsset asset,IChekout checkoutsService)
+        public CatalogController(ILibraryAsset assets,IChekout checkoutsService)
         {
-            _assetsService = asset;
+            _assetsService = assets;
             _checkoutsService = checkoutsService;
         }
         public IActionResult Index()

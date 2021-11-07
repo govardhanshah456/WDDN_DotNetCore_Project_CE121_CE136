@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LibraryServices1\LibraryServices1.csproj" />
-    <ProjectReference Include="..\Lib_Management Data\Lib_Management Data.csproj" />
+    <ProjectReference Include="C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\LibraryServices1.csproj" />
+    <ProjectReference Include="C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\Lib_Management Data.csproj" />
   </ItemGroup>
 
 </Project>

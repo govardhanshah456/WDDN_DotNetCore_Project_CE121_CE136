@@ -10,3 +10,15 @@ C:\Users\govar\source\repos\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServ
 C:\Users\govar\source\repos\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServices1.csproj.CopyComplete
 C:\Users\govar\source\repos\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServices1.dll
 C:\Users\govar\source\repos\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServices1.pdb
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\bin\Debug\netcoreapp3.1\LibraryServices1.deps.json
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\bin\Debug\netcoreapp3.1\LibraryServices1.dll
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\bin\Debug\netcoreapp3.1\LibraryServices1.pdb
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\bin\Debug\netcoreapp3.1\Lib_Management Data.dll
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\bin\Debug\netcoreapp3.1\Lib_Management Data.pdb
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServices1.csproj.AssemblyReference.cache
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServices1.AssemblyInfoInputs.cache
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServices1.AssemblyInfo.cs
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServices1.csproj.CoreCompileInputs.cache
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServices1.csproj.CopyComplete
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServices1.dll
+C:\Users\ProBook\Desktop\test2\Reference Projects\LibraryServices1\obj\Debug\netcoreapp3.1\LibraryServices1.pdb

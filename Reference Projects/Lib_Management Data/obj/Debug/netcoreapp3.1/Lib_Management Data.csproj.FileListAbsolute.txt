@@ -10,3 +10,15 @@ C:\Users\govar\source\repos\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Mana
 C:\Users\govar\source\repos\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Management Data.dll
 C:\Users\govar\source\repos\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Management Data.pdb
 C:\Users\govar\source\repos\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Management Data.genruntimeconfig.cache
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\bin\Debug\netcoreapp3.1\Lib_Management Data.deps.json
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\bin\Debug\netcoreapp3.1\Lib_Management Data.runtimeconfig.json
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\bin\Debug\netcoreapp3.1\Lib_Management Data.runtimeconfig.dev.json
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\bin\Debug\netcoreapp3.1\Lib_Management Data.dll
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\bin\Debug\netcoreapp3.1\Lib_Management Data.pdb
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Management Data.csproj.AssemblyReference.cache
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Management Data.AssemblyInfoInputs.cache
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Management Data.AssemblyInfo.cs
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Management Data.csproj.CoreCompileInputs.cache
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Management Data.dll
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Management Data.pdb
+C:\Users\ProBook\Desktop\test2\Reference Projects\Lib_Management Data\obj\Debug\netcoreapp3.1\Lib_Management Data.genruntimeconfig.cache

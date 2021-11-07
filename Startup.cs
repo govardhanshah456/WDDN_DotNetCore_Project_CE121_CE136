@@ -31,6 +31,8 @@ namespace Lib_Management
             services.AddSingleton(Configuration);
             services.AddScoped<ILibraryAsset, LibraryAssetServices>();
             services.AddScoped<IChekout, CheckoutService>();
+            services.AddScoped<ICustomer, CustomerService>();
+            services.AddScoped<ILibraryBranch, LibraryBranchService>();
             services.AddDbContext<Lib_ManagementContext>(options
                 => options.UseSqlServer(Configuration.GetConnectionString("LibraryConnection")));
             //services.AddTransient<ILibraryAsset, LibraryAssetServices>();
